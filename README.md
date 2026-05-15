@@ -1,6 +1,6 @@
 # k8s-homelab
 
-A hands-on Kubernetes lab I built to get proper muscle memory with k8s — deployments, debugging, rollbacks, node inspection, the works. Runs entirely free using k3d (k8s in Docker) so no cloud spend needed.
+A hands on Kubernetes lab I built to get proper muscle memory with k8s — deployments, debugging, rollbacks, node inspection, the works. Runs entirely free using k3d (k8s in Docker) so no cloud spend needed.
 
 ---
 
